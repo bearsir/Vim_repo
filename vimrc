@@ -1,5 +1,3 @@
-call pathogen#infect()
-call pathogen#helptags()
 
 set smarttab
 set expandtab
