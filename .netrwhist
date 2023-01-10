@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =5
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/Hero/.vim/pack'
+let g:netrw_dirhist_6='/Users/Hero/.vim'
 let g:netrw_dirhist_5='/Users/Hero/.vim/autoload'
 let g:netrw_dirhist_4='/Users/ying-hsiung-chen/SYS/Google/GCP/GKE/deployment-nginx/deploy'
 let g:netrw_dirhist_3='/Users/ying-hsiung-chen/Documents/Hero/Python/.venv'
